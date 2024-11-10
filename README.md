@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+este repo es creado para obtener el copilot de estuduante
+
 <!--
 **EnyelH/EnyelH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
